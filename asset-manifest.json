@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.99a1cfed.css",
+    "main.js": "/portfolio-app/static/js/main.8b7b3afc.js",
+    "static/media/rio_airbnb_report.pdf": "/portfolio-app/static/media/rio_airbnb_report.c0fa151868ac7e9f29f2.pdf",
+    "static/media/french_songs_report.pdf": "/portfolio-app/static/media/french_songs_report.8008f8c755b6a5eaa8f0.pdf",
+    "static/media/about.jpg": "/portfolio-app/static/media/about.2f5d9fae10c3d6eb9006.jpg",
+    "static/media/profile.jpg": "/portfolio-app/static/media/profile.2f5d9fae10c3d6eb9006.jpg",
+    "static/media/work4.jpg": "/portfolio-app/static/media/work4.3d2d4892a3175492a377.jpg",
+    "static/media/work2.jpg": "/portfolio-app/static/media/work2.55b1f36071425a793fb4.jpg",
+    "static/media/work1.jpg": "/portfolio-app/static/media/work1.0265b1e17d5bbf2eb6cb.jpg",
+    "static/media/CV_en.pdf": "/portfolio-app/static/media/CV_en.f061ab2a339bc03367b1.pdf",
+    "static/media/work3.jpg": "/portfolio-app/static/media/work3.8a03bece1b8f029ec7af.jpg",
+    "index.html": "/portfolio-app/index.html",
+    "main.99a1cfed.css.map": "/portfolio-app/static/css/main.99a1cfed.css.map",
+    "main.8b7b3afc.js.map": "/portfolio-app/static/js/main.8b7b3afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a1cfed.css",
+    "static/js/main.8b7b3afc.js"
+  ]
+}
