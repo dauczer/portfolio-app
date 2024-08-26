@@ -33,7 +33,7 @@ export const projectsData = [
     category: "web",
     quick_description: "The website you currently in !",
     description: "I wanted to have something better than a basic CV, so I decided to create my own website.",
-    website_link: "alexdaucourt.com",
+    website_link: "https://dauczer.github.io/portfolio-app/",
   },
   {
     id: 4,
